@@ -1,5 +1,5 @@
 console.log("Crescente")
-for (let contagem = 0; contagem < 11; contagem++) {
+for (let contagem = 1; contagem < 11; contagem++) {
     console.log(contagem)
 }
 

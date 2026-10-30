@@ -11,12 +11,16 @@ switch (diaDasemana){
         break;
     case 4:
         console.log("Quarta-Feira");
+        break;
     case 5:
         console.log("Quinta-Feira");
+        break;
     case 6:
         console.log("Sexta-Feira");
+        break;
     case 7:
         console.log("Sábado");
+        break;
     default:
         console.log("Dia Inválido");
 }
